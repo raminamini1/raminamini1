@@ -14,10 +14,10 @@ Mein Fokus: strukturierte Qualitätssicherung nach ISTQB-Standard – agil, klas
 
 ## 🏢 Branchen
 
-- Versicherungen (AIA AG, InterRisk)
-- Öffentlicher Sektor (ITZBund, DVZ M-V)
-- FMCG (Imperial Brands, Reemtsma)
-- Logistik & Supply Chain (MT Container)
+- Versicherungen
+- Öffentlicher Sektor 
+- FMCG 
+- Logistik & Supply Chain 
 - Unternehmensberatung
 
 ---
